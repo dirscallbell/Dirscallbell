@@ -1,3 +1,5 @@
 ## Hi, I´m Dirsky<br/>
 
-Math Professor and Self Taught Data Analyst<br/>
+Bachelor´s in Math<br/> 
+Master´s in Math Education<br/>
+Self Taught Data Analyst<br/>
